@@ -1,5 +1,3 @@
-# example repo
-this is a sample repository
-this is a markdown file
-why is this not working
-finally figured it out
+I am a aspiring Software developer|Front-end Developer 
+Skilled in Python , Deep Learning,Java,SQL and web Development.
+I have Completed MSc Computer Science and technology and Have a strong Foundation in Programming.
